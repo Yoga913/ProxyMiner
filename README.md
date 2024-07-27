@@ -38,7 +38,7 @@ python proxyminer.py
 
 ## Lisensi
 
-Proyek ini dilisensikan di bawah Lisensi MIT - lihat file [LISENSI](https://github.com/Yoga913/ProxyMiner/LISENSI) untuk detailnya.
+Proyek ini dilisensikan di bawah Lisensi MIT - lihat file [LISENSI](https://github.com/Yoga913/ProxyMiner/LICENSE) untuk detailnya.
 Ucapan Terima Kasih
 
 
