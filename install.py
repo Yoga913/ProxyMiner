@@ -32,7 +32,7 @@ def get_python_command():
         return 'python3'
 
 def main():
-    print("🌟 WSelamat datang di Penginstallan ProxyMiner 🌟")
+    print("🌟 Selamat datang di Penginstallan ProxyMiner 🌟")
 
     # lihat jika berjalan root (sudo)
     if os.geteuid() == 1:
