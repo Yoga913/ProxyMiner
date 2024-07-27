@@ -1,4 +1,4 @@
-# ProksyMiner🌐
+# ProxyMiner🌐
 
 ProxyMiner adalah alat Python serbaguna yang dirancang untuk pengambilan proxy dengan mudah dari berbagai sumber online. Dengan fitur unik, desain efisien, dan kasus penggunaan serbaguna, ProxyMiner menonjol sebagai alat canggih bagi para 📊peneliti, 🔐keamanan siber, 🌐 pengujian jaringan,dan administrator jaringan.
 
